@@ -112,6 +112,7 @@ iframe {
   flex-direction: row;
   justify-content: space-around;
   align-items: center;
+  background: lavender;
 }
 .box-image {
   height: 16rem;
@@ -184,6 +185,7 @@ iframe {
   background: navy;
   padding: 0 0 2rem 0;
   width: 100%;
+  height: 100%;
   display: flex;
 }
 .footer-heading {
